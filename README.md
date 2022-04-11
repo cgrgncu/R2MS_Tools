@@ -1,11 +1,11 @@
 # R2MS_Tools
 簡單說明
 
-<s>### 使用前準備</s>
-<s>+ 安裝MATLAB2014A Runtime環境。</s>
-<s>+ 把主程式放到根目錄下的R2MS_Tools，可依照需求改名為R2MS_Tools2、R2MS_Tools3等等。底下要有Programs與Projects資料夾。</s>
-<s>+ 資料放在Projects資料夾中。</s>
-<s>+ 執行主程式會有防火牆提醒，暫時不同意。</s>
+### <s>使用前準備</s>
++ <s>安裝MATLAB2014A Runtime環境。</s>
++ <s>把主程式放到根目錄下的R2MS_Tools，可依照需求改名為R2MS_Tools2、R2MS_Tools3等等。底下要有Programs與Projects資料夾。</s>
++ <s>資料放在Projects資料夾中。</s>
++ <s>執行主程式會有防火牆提醒，暫時不同意。</s>
 
 ### 資料準備步驟
 + 準備ERT專案資料夾，放在Projects資料夾中，命名方式範例為:[20220125A]Taiwan-Taichung-WufengE1(WF1)  
